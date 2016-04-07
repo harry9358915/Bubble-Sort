@@ -1,4 +1,4 @@
-
+//U10316050 莊智翔
 public class BubbleTest {
 	public static void main(String[] args){
 		int[] RandomArray = {5,25,1,4,78,45,65,35};//Create Array
